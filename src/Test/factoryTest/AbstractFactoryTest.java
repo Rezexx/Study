@@ -1,3 +1,5 @@
+package factoryTest;
+
 import com.gupaoedu.pattern.factory.abstractFactory.*;
 import com.gupaoedu.pattern.factory.simple.JavaCourse;
 import org.omg.PortableInterceptor.INACTIVE;
